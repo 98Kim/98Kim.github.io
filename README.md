@@ -1,5 +1,5 @@
 Hello World
-[test](test.md)
+[test](./test/test.md)
 
 eeee
 
